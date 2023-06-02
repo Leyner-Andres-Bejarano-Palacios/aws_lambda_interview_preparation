@@ -324,3 +324,18 @@ https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html
 <details><summary><b>Source</b></summary>
 https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html
 </details>
+
+### Theorical Question 21
+Do you know what is a AWS Lambda application
+
+<details><summary><b>Answer</b></summary>
+
+An AWS Lambda application is a combination of Lambda functions, event sources, and other resources that work together to perform tasks. You can use AWS CloudFormation and other tools to collect your application's components into a single package that can be deployed and managed as one resource. Applications make your Lambda projects portable and enable you to integrate with additional developer tools, such as AWS CodePipeline, AWS CodeBuild, and the AWS Serverless Application Model command line interface (AWS SAM CLI).
+
+</details>
+
+
+<details><summary><b>Source</b></summary>
+https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html
+</details>
+
