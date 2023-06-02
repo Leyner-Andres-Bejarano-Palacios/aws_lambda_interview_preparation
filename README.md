@@ -339,3 +339,17 @@ An AWS Lambda application is a combination of Lambda functions, event sources, a
 https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html
 </details>
 
+### Theorical Question 22
+Do you undrstand what serverless mean
+
+<details><summary><b>Answer</b></summary>
+
+With AWS serverless technologies, you can build and run applications without having to manage your own servers. All server management is done by AWS, providing many benefits such as automatic scaling and built-in high availability, letting you take your idea to production quickly. Using serverless technologies, you can focus on the core of your product without having to worry about managing and operating servers.
+
+</details>
+
+
+<details><summary><b>Source</b></summary>
+https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-concepts.html
+</details>
+
